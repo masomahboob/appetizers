@@ -14,6 +14,7 @@
 		811CB60E2AFCEF5C00805C2A /* AppetizerListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811CB60D2AFCEF5C00805C2A /* AppetizerListView.swift */; };
 		811CB6102AFCEF9600805C2A /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811CB60F2AFCEF9600805C2A /* AccountView.swift */; };
 		811CB6122AFCEFC600805C2A /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811CB6112AFCEFC600805C2A /* OrderView.swift */; };
+		811CB6162AFD0F8700805C2A /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 811CB6152AFD0F8700805C2A /* Appetizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		811CB60D2AFCEF5C00805C2A /* AppetizerListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListView.swift; sourceTree = "<group>"; };
 		811CB60F2AFCEF9600805C2A /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		811CB6112AFCEFC600805C2A /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		811CB6152AFD0F8700805C2A /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				811CB60D2AFCEF5C00805C2A /* AppetizerListView.swift */,
 				811CB60F2AFCEF9600805C2A /* AccountView.swift */,
 				811CB6112AFCEFC600805C2A /* OrderView.swift */,
+				811CB6152AFD0F8700805C2A /* Appetizer.swift */,
 				811CB6032AFCED7200805C2A /* Assets.xcassets */,
 				811CB6052AFCED7200805C2A /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				811CB6162AFD0F8700805C2A /* Appetizer.swift in Sources */,
 				811CB6102AFCEF9600805C2A /* AccountView.swift in Sources */,
 				811CB6022AFCED7000805C2A /* AppetizerTabView.swift in Sources */,
 				811CB6002AFCED7000805C2A /* AppetizersApp.swift in Sources */,
